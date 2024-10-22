@@ -2,8 +2,9 @@
   📚▪️I'm a student at SibSUTIS (Siberian State University of Telecommunications and Information Sciences) in Novosibirsk 🇷🇺\
   💻▪️Major: System/Network Programming\
   🌎▪️Languages: 🇷🇺 Russian (native), 🇺🇸 English (C1)
-<br></br>
- #### 📝▪️I Have experience with
+ <br>
+
+### 📝▪️I Have experience with
  ![Static Badge](https://img.shields.io/badge/C-blue?logo=c&logoColor=white)
  ![Static Badge](https://img.shields.io/badge/C%2B%2B-blue?logo=cplusplus&logoColor=white)
  ![Static Badge](https://img.shields.io/badge/OpenMP-blue?logo=c&logoColor=white)
@@ -16,3 +17,10 @@
  ![Static Badge](https://img.shields.io/badge/Bash-black?logo=gnubash&logoColor=white)
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1KEEN1&layout=compact)](https://github.com/1KEEN1/github-readme-stats)
+ <br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/1KEEN1/1KEEN1/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset=""https://raw.githubusercontent.com/1KEEN1/1KEEN1/output/github-contribution-grid-snake.svg>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/1KEEN1/1KEEN1/output/github-contribution-grid-snake.svg">
+</picture>
