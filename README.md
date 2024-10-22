@@ -1,16 +1,18 @@
-## Hi there 👋
+### 💾▪️Bio
+  📚▪️I'm a student at SibSUTIS (Siberian State University of Telecommunications and Information Sciences) in Novosibirsk 🇷🇺\
+  💻▪️Major: System/Network Programming\
+  🌎▪️Languages: 🇷🇺 Russian (native), 🇺🇸 English (C1)
+<br></br>
+ #### 📝▪️I Have experience with
+ ![Static Badge](https://img.shields.io/badge/C-blue?logo=c&logoColor=white)
+ ![Static Badge](https://img.shields.io/badge/C%2B%2B-blue?logo=cplusplus&logoColor=white)
+ ![Static Badge](https://img.shields.io/badge/OpenMP-blue?logo=c&logoColor=white)
+ ![Static Badge](https://img.shields.io/badge/Makefile-blue?logo=make&logoColor=white)
+ ![Static Badge](https://img.shields.io/badge/CMake-blue?logo=cmake&logoColor=white)
+ ![Static Badge](https://img.shields.io/badge/Mikrotik-black?logo=mikrotik&logoColor=white)
+ ![Static Badge](https://img.shields.io/badge/Docker-%237fcdff?logo=docker&logoColor=white)
+ ![Static Badge](https://img.shields.io/badge/Git-orange?logo=git&logoColor=white)
+ ![Static Badge](https://img.shields.io/badge/Linux-orange?logo=Linux&logoColor=black)
+ ![Static Badge](https://img.shields.io/badge/Bash-black?logo=gnubash&logoColor=white)
 
-<!--
-**1KEEN1/1KEEN1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1KEEN1&layout=compact)](https://github.com/1KEEN1/github-readme-stats)
