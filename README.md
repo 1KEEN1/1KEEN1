@@ -16,7 +16,7 @@
  ![Static Badge](https://img.shields.io/badge/Linux-orange?logo=Linux&logoColor=black)
  ![Static Badge](https://img.shields.io/badge/Bash-black?logo=gnubash&logoColor=white)
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1KEEN1&layout=compact)](https://github.com/1KEEN1/github-readme-stats)
+ ![KEEN's LeetCode stats neutral](https://leetcode-badge-sage.vercel.app/badge/1KEEN1?theme=neutral) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1KEEN1&layout=compact)](https://github.com/1KEEN1/github-readme-stats)
  <br>
 
 <picture>
