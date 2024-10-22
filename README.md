@@ -1,10 +1,10 @@
-### 💾▪️Bio
-  📚▪️I'm a student at SibSUTIS (Siberian State University of Telecommunications and Information Sciences) in Novosibirsk 🇷🇺\
-  💻▪️Major: System/Network Programming\
-  🌎▪️Languages: 🇷🇺 Russian (native), 🇺🇸 English (C1)
+### 💾▪️ Bio
+  📚▪️ I'm a student at SibSUTIS (Siberian State University of Telecommunications and Information Sciences) in Novosibirsk 🇷🇺\
+  💻▪️ Major: System/Network Programming\
+  🌎▪️ Languages: 🇷🇺 Russian (native), 🇺🇸 English (C1)
  <br>
 
-### 📝▪️I Have experience with
+### 📝▪️ I Have experience with
  ![Static Badge](https://img.shields.io/badge/C-blue?logo=c&logoColor=white)
  ![Static Badge](https://img.shields.io/badge/C%2B%2B-blue?logo=cplusplus&logoColor=white)
  ![Static Badge](https://img.shields.io/badge/OpenMP-blue?logo=c&logoColor=white)
