@@ -8,6 +8,7 @@
  ![Static Badge](https://img.shields.io/badge/C-blue?logo=c&logoColor=white)
  ![Static Badge](https://img.shields.io/badge/C%2B%2B-blue?logo=cplusplus&logoColor=white)
  ![Static Badge](https://img.shields.io/badge/OpenMP-blue?logo=c&logoColor=white)
+ ![Static Badge](https://img.shields.io/badge/SFML-white?logo=sfml)
  ![Static Badge](https://img.shields.io/badge/Makefile-blue?logo=make&logoColor=white)
  ![Static Badge](https://img.shields.io/badge/CMake-blue?logo=cmake&logoColor=white)
  ![Static Badge](https://img.shields.io/badge/Mikrotik-black?logo=mikrotik&logoColor=white)
