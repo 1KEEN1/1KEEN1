@@ -5,6 +5,8 @@
  <br>
 
 ### 📝▪️ I Have experience with
+ ![Static Badge](https://img.shields.io/badge/Erlang-red?logo=Erlang&logoColor=white)
+ ![Static Badge](https://img.shields.io/badge/Elixir-white?logo=Elixir&logoColor=purple)
  ![Static Badge](https://img.shields.io/badge/C-blue?logo=c&logoColor=white)
  ![Static Badge](https://img.shields.io/badge/C%2B%2B-blue?logo=cplusplus&logoColor=white)
  ![Static Badge](https://img.shields.io/badge/OpenMP-blue?logo=c&logoColor=white)
