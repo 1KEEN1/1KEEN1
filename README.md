@@ -1,5 +1,5 @@
 ### 💾▪️ Bio
-  📚▪️ I'm a student at SibSUTIS (Siberian State University of Telecommunications and Information Sciences) in Novosibirsk 🇷🇺\
+  📚▪️ SibSUTIS (Siberian State University of Telecommunications and Information Sciences) in Novosibirsk 🇷🇺\
   💻▪️ Major: System/Network Programming\
   🌎▪️ Languages: 🇷🇺 Russian (native), 🇺🇸 English (C1)
  <br>
