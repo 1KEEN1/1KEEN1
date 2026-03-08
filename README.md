@@ -1,7 +1,7 @@
 ### 💾▪️ Bio
   🛠️▪️ Currently working as Network Engineer at Beeline (GSM, UMTS, LTE, Wi-Fi, IP/MPLS)\
   📚▪️ SibSUTIS (Siberian State University of Telecommunications and Information Sciences) in Novosibirsk 🇷🇺\
-  💻▪️ Major: System/Network Programming\
+  💻▪️ Major: System/Network Programmer/Engineer\
   🌎▪️ Languages: 🇷🇺 Russian (native), 🇺🇸 English (C1)
  <br>
 
