@@ -5,8 +5,6 @@
  <br>
 
 ### 📝▪️ I Have experience with
- ![Static Badge](https://img.shields.io/badge/Erlang-red?logo=Erlang&logoColor=white)
- ![Static Badge](https://img.shields.io/badge/Elixir-white?logo=Elixir&logoColor=purple)
  ![Static Badge](https://img.shields.io/badge/C-blue?logo=c&logoColor=white)
  ![Static Badge](https://img.shields.io/badge/C%2B%2B-blue?logo=cplusplus&logoColor=white)
  ![Static Badge](https://img.shields.io/badge/OpenMP-blue?logo=c&logoColor=white)
@@ -18,6 +16,8 @@
  ![Static Badge](https://img.shields.io/badge/Git-orange?logo=git&logoColor=white)
  ![Static Badge](https://img.shields.io/badge/Linux-orange?logo=Linux&logoColor=black)
  ![Static Badge](https://img.shields.io/badge/Bash-black?logo=gnubash&logoColor=white)
+ ![Static Badge](https://img.shields.io/badge/Erlang-red?logo=Erlang&logoColor=white)
+ ![Static Badge](https://img.shields.io/badge/Elixir-white?logo=Elixir&logoColor=purple)
 
  ![KEEN's LeetCode stats neutral](https://leetcode-badge-sage.vercel.app/badge/1KEEN1?theme=neutral) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1KEEN1&layout=compact)](https://github.com/1KEEN1/github-readme-stats)
  <br>
